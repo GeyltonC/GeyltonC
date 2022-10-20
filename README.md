@@ -1,8 +1,30 @@
-- 👋 Hi, I’m @GeyltonC
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Pyhton, MySQL
+# Seja Bem-vindo ao meu GitHub
+---
 
-<!---
-GeyltonC/GeyltonC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Quem Sou eu?
+
+- Formado em Engenharia de Produção
+- Bolsista IEL no Bradesco Atuando na Area de TI
+- Estudante de programação e DataScience
+
+## Conhecimentos
+
+- Gestão de Negócios
+- Gestão financeira
+- Programação
+- Analise de dados com Python
+
+## Linguagens
+[x] Python
+[x] SQL
+[] java
+[] php
+
+
+## O que voce vai encontrar?
+
+- Um repositório com meu cods de treinamento
+   - Repositorio GIT/GITHUB (Baseado no (cursoemvideo - github) [https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA])
+   - Repositório com os exercícios do curso de Python
+   - Repositório com Projetos para iniciante conforme eu for fazendo 
+   - e outros conforme eu for aprendedo
