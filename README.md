@@ -3,9 +3,9 @@
 
 ## Quem Sou eu?
 
-- Formado em Engenharia de Produção
-- Bolsista IEL no Bradesco Atuando na Area de TI
-- Estudante de programação e DataScience
+- MBA em Data Science e Analytcs pela USP
+- Data Engineer
+- Engenheiro de Produção
 
 ## Conhecimentos
 
@@ -15,16 +15,25 @@
 - Analise de dados com Python
 
 ## Linguagens
-[x] Python
+### Analise de Dados
+[x] Python 
+
 [x] SQL
-[] java
-[] php
+
+[x] SAS 
+
+### Desenvolvimento de WebApp
+[ ] .Net/C# (ainda estudando)
 
 
 ## O que voce vai encontrar?
 
 - Um repositório com meu cods de treinamento
-   - Repositorio GIT/GITHUB (Baseado no (cursoemvideo - github) [https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA])
-   - Repositório com os exercícios do curso de Python
-   - Repositório com Projetos para iniciante conforme eu for fazendo 
-   - e outros conforme eu for aprendedo
+   - Repositorio GIT/GITHUB Baseado no [cursoemvideo - github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+ 
+- Repositório de Estudos com Analise de dados com o link de códigos abertos
+   - Se tiver sugestões, estou aberto a colaborações
+ 
+## Contato
+- [Meu Linkedin](https://www.linkedin.com/in/geylton-candido-da-silva/)
+
