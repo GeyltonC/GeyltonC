@@ -16,14 +16,12 @@
 
 ## Linguagens
 ### Analise de Dados
-[x] Python 
-
-[x] SQL
-
-[x] SAS 
+- [x] Python 
+- [x] SQL
+- [x] SAS 
 
 ### Desenvolvimento de WebApp
-[ ] .Net/C# (ainda estudando)
+- [ ] .Net/C# (ainda estudando)
 
 
 ## O que voce vai encontrar?
